@@ -80,7 +80,7 @@
   },
   "dependencies": {
     "@arbitrum/nitro-contracts": "1.1.1",
-    "@arbitrum/token-bridge-contracts": "1.1.2",
+    "@arbitrum/token-bridge-contracts": "1.2.3",
     "@changesets/cli": "~2.27.8",
     "@changesets/get-github-info": "^0.6.0",
     "@eth-optimism/contracts": "0.6.0",
